@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "桌面闹钟", "桌面闹钟\桌面闹钟.csproj", "{BE907795-FD9A-4D96-9E80-ECA0AA80C47A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "桌面时钟", "桌面时钟\桌面时钟.vdproj", "{486BABDE-34DB-406E-A622-83890FCC7DEF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "桌面闹钟安装程序", "桌面闹钟安装程序\桌面闹钟安装程序.vdproj", "{A22F6602-638D-46BE-9267-5C910C403692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE907795-FD9A-4D96-9E80-ECA0AA80C47A}.Debug|x86.ActiveCfg = Debug|x86
+		{BE907795-FD9A-4D96-9E80-ECA0AA80C47A}.Debug|x86.Build.0 = Debug|x86
+		{BE907795-FD9A-4D96-9E80-ECA0AA80C47A}.Release|x86.ActiveCfg = Release|x86
+		{BE907795-FD9A-4D96-9E80-ECA0AA80C47A}.Release|x86.Build.0 = Release|x86
+		{486BABDE-34DB-406E-A622-83890FCC7DEF}.Debug|x86.ActiveCfg = Debug
+		{486BABDE-34DB-406E-A622-83890FCC7DEF}.Release|x86.ActiveCfg = Release
+		{A22F6602-638D-46BE-9267-5C910C403692}.Debug|x86.ActiveCfg = Debug
+		{A22F6602-638D-46BE-9267-5C910C403692}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
